@@ -1,5 +1,1 @@
-print("arya")
-print("adi fuck again")
-print("adi fuck you 2")
-print("chutiya")
-print('tera maiya ki choot')
+print("")
