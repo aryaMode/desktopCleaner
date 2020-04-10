@@ -1,2 +1,2 @@
 print("arya")
-print("adi fuck you")
+print("adi fuck again")
